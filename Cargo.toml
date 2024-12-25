@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "play_main"
+]
+resolver = "2"
